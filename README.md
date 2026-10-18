@@ -1,22 +1,11 @@
-# Dental Health Resources - British Columbia, Canada
+# Dental Health Resources
 
-A curated list of dental health resources, tips, and recommended providers.
+Retired.
 
-## Recommended Dental Clinics
+The provider listings and promotional material previously published here have been withdrawn. This repository no longer maintains a directory or recommends service providers.
 
-### Vancouver Island
-- [Nanaimo Smiles - Family Dentistry](https://nanaimosmiles.com) - Comprehensive family dental care in Nanaimo, BC
-- [Ladysmith Smiles Dental](https://ladysmithsmiles.com) - Gentle dental care for the whole family in Ladysmith, BC
-
-## Naturopathic Health Resources
-
-### British Columbia
-- [Dr. Heather Iverson, ND](https://drheatheriverson.com) - Naturopathic medicine in Nanaimo, BC
-- [Dr. Kaleb Falk, ND](https://drkalebfalk.com) - Naturopathic doctor in Kamloops, BC
-- [Dr. Marissa Gaucher, ND](https://drmarissagaucher.com) - Naturopathic health in Kamloops, BC
-
-## Contributing
-Feel free to submit a PR to add more resources!
+No application is included on the default branch.
 
 ## License
+
 MIT
